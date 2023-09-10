@@ -16,7 +16,7 @@ public class Zadatak2 {
 
         objava1.dodajLike();
         objava1.dodajLike();
-        objava1.dodajLike();
+        objava1.dodajLike();git
         objava1.dodajLike();
         objava1.dodajLike();
         objava1.dodajShare();
